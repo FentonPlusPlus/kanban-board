@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper" Version="2.0.78" />
+      <PackageReference Include="Microsoft.Data.Sqlite" Version="7.0.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Data\001.sql" />
+      <EmbeddedResource Include="Data\001.sql" />
+    </ItemGroup>
+
+
+</Project>

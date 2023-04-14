@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DcUDu9f1sM2a6GQJW2kB6siFq00UeKN960AmJYwh3tv6BadQtEewwybJ47ys83IkEemFgn2yrrGoS22X5ah/qA==",
+  "success": true,
+  "projectFilePath": "/Users/fentonhutson/Desktop/ProjectKanban/ProjectKanban/ProjectKanban.csproj",
+  "expectedPackageFiles": [
+    "/Users/fentonhutson/.nuget/packages/dapper/2.0.78/dapper.2.0.78.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/microsoft.data.sqlite/7.0.2/microsoft.data.sqlite.7.0.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/microsoft.data.sqlite.core/7.0.2/microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.2/sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/sqlitepclraw.core/2.1.2/sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.2/sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.2/sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "/Users/fentonhutson/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
